@@ -16,7 +16,7 @@ fn main() {
     .join("\n");
 
     let work = vec![
-        "Independent Software Engineer at SpaceTimeNoise, 2022-Current\n",
+        "Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients)\n",
         "C++ Linux developer at tonicbits, 2022\n",
         "Postdoctoral researcher in Computer Science and Engineering at UTS and Concordia Uni, 2019-2022\n",
         "Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019\n",

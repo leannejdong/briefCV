@@ -15,7 +15,7 @@ Bachelor of Art and Business, Macquarie University
 
 **Work:**
 
-Independent Software Engineer at SpaceTimeNoise, 2022-Current
+Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients)
 
 C++ Linux developer at tonicbits, 2022
 
