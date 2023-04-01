@@ -7,8 +7,9 @@ fn main() {
     let email = "jdleanne@levynoise.com";
     let education = "Bachelor of Science, Commerce and Art in Computer Science, Macquarie University";
     let skills = vec![
-        "Rust",
         "C++",
+        "C",
+        "Rust",
         "Python",
         "R",
         "JavaScript",
