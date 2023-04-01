@@ -21,6 +21,7 @@ fn main() {
     ]);
     let skills = vec![
         "C++",
+        "C",
         "Rust",
         "Python",
         "R",
