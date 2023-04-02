@@ -27,6 +27,7 @@ Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 **Skills:**
 
 - C++
+- Linux
 - JUCE
 - Boost
 - Qt
@@ -34,9 +35,9 @@ Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 - Rust
 - Python
 - R
+- JavaScript, HTML, CSS
 - Git
-- Linux (Arch, Debian Ubuntu)
-- networking protocol
+- Linux (Arch, Ubuntu)
 - Docker
 - AWS
 - Social Media
