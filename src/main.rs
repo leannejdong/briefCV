@@ -7,7 +7,7 @@ use std::io::Write;
 fn main() {
     // Set up my data for the CV
     let name = "Dr Leanne Dong";
-    let email = "jdleanne@gmail.com";
+    let email = "leanne@spacetimenoise.dev";
         let education = vec![
             "PhD in Mathematics, Sydney University (2018)\n",
             "Bachelor of Science in Mathematics and Statistic (Hon 1, Medal), UTS\n",
