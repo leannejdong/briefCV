@@ -2,7 +2,7 @@
 
 use std::fs::OpenOptions;
 use std::io::Write;
-
+use std::process::Command;
 
 fn main() {
     // Set up my data for the CV
@@ -62,8 +62,23 @@ fn main() {
         .write(true)
         .truncate(true)
         .create(true)
-        .open("CV.txt")
+        .open("README.md")
         .unwrap();
     file.write_all(markdown.as_bytes()).unwrap();
 
+     // Convert Markdown to Word document
+    let input_file = "README.md";
+    let output_file = "CV.docx";
+
+    let output = Command::new("pandoc")
+    .args(&[input_file, "-o", output_file])
+    .output()
+    .expect("Failed to execute Pandoc command");
+
+if output.status.success() {
+    println!("Conversion successful! Output file: {}", output_file);
+} else {
+    let error_message = String::from_utf8_lossy(&output.stderr);
+    println!("Conversion failed. Error: {}", error_message);
+}
 }
