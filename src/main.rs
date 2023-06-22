@@ -17,7 +17,7 @@ fn main() {
     .join("\n");
 
     let work = vec![
-            "Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients)\n",
+            "Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients focus on Audio, Multimedia, Low latency applications)\n",
             "C++ Linux developer at tonicbits, 2022\n",
             "Postdoctoral researcher in Computer Science and Engineering at UTS and Concordia Uni, 2019-2022\n",
         "Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019\n",
@@ -26,23 +26,23 @@ fn main() {
 
     let skills = vec![
         "C++",
+        "Python",
+        "C",
+        "Rust",
         "Linux",
         "JUCE",
         "Boost",
         "Qt",
-        "C",
-        "Rust",
-        "Python",
         "R",
         "JavaScript, HTML, CSS",
         "Git",
         "Linux (Arch, Ubuntu)",
         "Docker",
         "AWS",
-        "Social Media",
         "Mathematics",
         "Statistics",
-        "Machine Learning",
+        "System Programming",
+        "Deep (Machine) Learning",
         "Data Analytics",
     ];
 

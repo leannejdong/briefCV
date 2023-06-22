@@ -1,6 +1,6 @@
 # Dr Leanne Dong
 
-Email: jdleanne@gmail.com
+Email: leanne@spacetimenoise.dev
 
 **Education:**
 
@@ -15,7 +15,7 @@ Bachelor of Art and Business, Macquarie University
 
 **Work:**
 
-Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients)
+Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients focus on Audio, Multimedia, Low latency applications)
 
 C++ Linux developer at tonicbits, 2022
 
@@ -27,21 +27,21 @@ Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 **Skills:**
 
 - C++
+- Python
+- C
+- Rust
 - Linux
 - JUCE
 - Boost
 - Qt
-- C
-- Rust
-- Python
 - R
 - JavaScript, HTML, CSS
 - Git
 - Linux (Arch, Ubuntu)
 - Docker
 - AWS
-- Social Media
 - Mathematics
 - Statistics
-- Machine Learning
+- System Programming
+- Deep (Machine) Learning
 - Data Analytics
