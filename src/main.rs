@@ -8,43 +8,40 @@ fn main() {
     // Set up my data for the CV
     let name = "Dr Leanne Dong";
     let email = "leanne@spacetimenoise.dev";
-        let education = vec![
+        let education= vec![
             "PhD in Mathematics, Sydney University (2018)\n",
-            "Bachelor of Science in Mathematics and Statistic (Hon 1, Medal), UTS\n",
+            "Bachelor of Science in Mathematics (Hon 1, Medal), UTS\n",
             "Master of Science in Finance, UNSW\n",
             "Bachelor of Art and Business, Macquarie University\n",
         ]
     .join("\n");
 
     let work = vec![
-            "Independent Software Engineer at SpaceTimeNoise, 2021-Current (Multiple clients focus on Audio, Multimedia, Low latency applications)\n",
-            "C++ Linux developer at tonicbits, 2022\n",
-            "Postdoctoral researcher in Computer Science and Engineering at UTS and Concordia Uni, 2019-2022\n",
-        "Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019\n",
+        "- Independent Software Engineer at SpaceTimeNoise, 2021-Current 
+        (Multiple NDA clients focus on Audio, Data Science, Deep Learning, 
+        Real Time Low latency application)",
+        "- C++ Linux developer at tonicbits, 2022",
+        "- Postdoctoral researcher in Computer Science and Engineering at UTS and Concordia Uni, 2019-2022",
+        "- Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019",
     ]
     .join("\n");
 
-    let skills = vec![
-        "C++",
-        "Python",
-        "C",
-        "Rust",
-        "Linux",
-        "JUCE",
-        "Boost",
-        "Qt",
-        "R",
-        "JavaScript, HTML, CSS",
-        "Git",
+
+    let skills: Vec<&str> = vec![
+        "Specialties: Cross platform custom software development",
+        "Language: C++, Python, Rust, C, MATLAB, R, JS/HTML/CSS/React",
+        "Build tools: CMake, Ninja, MSVC, vscode, neovim",
+        "Frameworks: JUCE, Boost, Qt",
+        "Git, Jira, Agile, AWS, Docker",
         "Linux (Arch, Ubuntu)",
-        "Docker",
-        "AWS",
+        "Code refactoring, debugging, testing",
         "Mathematics",
         "Statistics",
         "System Programming",
         "Deep (Machine) Learning",
         "Data Analytics",
     ];
+
 
     let skills_str = skills
         .iter()
