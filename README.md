@@ -1,4 +1,4 @@
-# Dr Leanne Dong
+# Dr Leanne J Dong
 
 Email: leanne@spacetimenoise.dev
 
@@ -14,7 +14,9 @@ Bachelor of Art and Business, Macquarie University
 
 
 **Work:**
-
+- Independent IT Lead tailor to small to medium businesses (Current)
+- Coding and Robotic instructor for children, ECT educator
+- IT Manager and IoT Coordinator, 2024 (March-Sep)
 - Independent Software Engineer at SpaceTimeNoise, 2021-Current 
         (Multiple NDA clients focus on Audio, Data Science, Deep Learning, 
         Real Time Low latency application)
@@ -24,15 +26,13 @@ Bachelor of Art and Business, Macquarie University
 
 **Skills:**
 
-- Specialties: Cross platform custom software development
-- Language: C++, Python, Rust, C, MATLAB, R, JS/HTML/CSS/React
-- Build tools: CMake, Ninja, MSVC, vscode, neovim
-- Frameworks: JUCE, Boost, Qt
+- Specialties: Cross platform custom software development, IT infrastructure and management, all rounder technologist
+- Language: C++, Java, C#, Python, Rust, C, MATLAB, R, JS/HTML/CSS/React
+- Build tools: CMake, Ninja, MSVC, vscode, neovim, ItelliJ
+- Frameworks: Too many, I'm a multi programming languages enthusiasts, language depends on what language I speak
 - Git, Jira, Agile, AWS, Docker
 - Linux (Arch, Ubuntu)
 - Code refactoring, debugging, testing
-- Mathematics
-- Statistics
+- Mathematics, Statistics
 - System Programming
-- Deep (Machine) Learning
 - Data Analytics
