@@ -1,4 +1,6 @@
-# Dr Leanne J Dong
+# Dr Leanne J Dong 
+
+I am a all rounder technologist with a software engineering background combine with deep interests in hardware, networking.
 
 Email: leanne@spacetimenoise.dev
 
@@ -29,7 +31,7 @@ Bachelor of Art and Business, Macquarie University
 - Specialties: Cross platform custom software development, IT infrastructure and management, all rounder technologist
 - Language: C++, Java, C#, Python, Rust, C, MATLAB, R, JS/HTML/CSS/React
 - Build tools: CMake, Ninja, MSVC, vscode, neovim, ItelliJ
-- Frameworks: Too many, I'm a multi programming languages enthusiasts, language depends on what language I speak
+- Frameworks: Too many, I'm a multi programming languages enthusiast, framework? depends on what language I speak
 - Git, Jira, Agile, AWS, Docker
 - Linux (Arch, Ubuntu)
 - Code refactoring, debugging, testing
