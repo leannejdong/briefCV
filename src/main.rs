@@ -68,7 +68,7 @@ fn main() {
 
      // Convert Markdown to Word document
     let input_file = "README.md";
-    let output_file = "CV.docx";
+    let output_file = "CV.pdf";
 
     let output = Command::new("pandoc")
     .args(&[input_file, "-o", output_file])
