@@ -1,7 +1,4 @@
-
-# Dr Leanne J Dong 
-
-I am a all rounder technologist with a deep background in software engineering and maths, combine with deep interests in hardware abstraction and networking.
+# Dr Leanne J Dong
 
 Email: leanne@spacetimenoise.dev
 
@@ -37,21 +34,20 @@ Over 70 other certificates around programming, networking and cloud
 - Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 
 
-**Skills:** 
-- Specialties: Trouble shooting, customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design
+**Skills:** - Specialties: Trouble shooting, customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design
 
 - Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React
 
-- Build tools: CMake, Ninja, MSVC, vscode, neovim, IntelliJ
+- Build tools: CMake, Ninja, MSVC, vscode, neovim
 
-- Frameworks: JUCE, Boost, Qt, Too many, I'm a multi programming languages enthusiast, framework? depends on what language I speak
-- 
+- Frameworks: JUCE, Boost, Qt
+
 - Git, Jira, Agile, AWS, Docker
 
 - Linux (Arch, Ubuntu)
 
 - Code refactoring, debugging, testing
-- 
+
 - Mathematics
 
 - Statistics
