@@ -44,15 +44,11 @@ Over 70 other certificates around programming, networking and cloud
 
 - Git, Jira, Agile, AWS, Docker
 
-- Linux (Arch, Ubuntu)
+- Linux (Arch, Ubuntu), system programming
 
 - Code refactoring, debugging, testing
 
-- Mathematics
-
-- Statistics
-
-- System Programming
+- Mathematics, Satistics
 
 - Data Analytics
 

@@ -37,11 +37,9 @@ fn main() {
         "Build tools: CMake, Ninja, MSVC, vscode, neovim\n",
         "Frameworks: JUCE, Boost, Qt\n",
         "Git, Jira, Agile, AWS, Docker\n",
-        "Linux (Arch, Ubuntu)\n",
+        "Linux (Arch, Ubuntu), system programming\n",
         "Code refactoring, debugging, testing\n",
-        "Mathematics\n",
-        "Statistics\n",
-        "System Programming\n",
+        "Mathematics, Satistics\n",
         "Data Analytics\n",
     ];
 
