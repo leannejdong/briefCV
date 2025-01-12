@@ -32,7 +32,7 @@ fn main() {
 
 
     let skills: Vec<&str> = vec![
-        "Specialties: Trouble shooting, customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design\n",
+        "Specialties: Trouble shooting (microsoft 365, software deployment techniques), customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design\n",
         "Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React\n",
         "Build tools: CMake, Ninja, MSVC, vscode, neovim\n",
         "Frameworks: JUCE, Boost, Qt\n",

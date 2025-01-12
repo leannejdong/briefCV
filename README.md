@@ -34,7 +34,7 @@ Over 70 other certificates around programming, networking and cloud
 - Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 
 
-**Skills:** - Specialties: Trouble shooting, customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design
+**Skills:** - Specialties: Trouble shooting (microsoft 365, software deployment techniques), customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design
 
 - Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React
 
