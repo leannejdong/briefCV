@@ -7,7 +7,7 @@ fn main() {
     let name = "Dr Leanne J Dong";
     let github = "https://github.com/leannejdong";
     let linkedin = "https://www.linkedin.com/in/leanne-j-dong/";
-    let email = "leanne@spacetimenoise.dev";
+    let email = "leanne@spacetimeit.com";
         let education= vec![
             "Diploma of IT in advanced networking and cloud engineering (2024-Current, part time)\n",
             "PhD in Mathematics, Sydney University (2018)\n",

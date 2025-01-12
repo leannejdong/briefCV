@@ -1,6 +1,6 @@
 # Dr Leanne J Dong
 
-Email: leanne@spacetimenoise.dev
+Email: leanne@spacetimeit.com
 
 **Github:** https://github.com/leannejdong
 
