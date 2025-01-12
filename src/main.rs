@@ -62,7 +62,9 @@ fn main() {
         .create(true)
         .open("README.md")
         .unwrap();
+    println!("Writing to README.md...");
     file.write_all(markdown.as_bytes()).unwrap();
+    println!("README.md updated successfully.");
 
      // Convert Markdown to Word document
     let input_file = "README.md";
