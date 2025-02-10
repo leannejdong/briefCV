@@ -16,7 +16,7 @@ fn main() {
             "Master of Science in Finance, UNSW\n",
             "Bachelor of Art and Business, Macquarie University\n",
             "Google technical support technician certificate\n",
-            "Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google)"
+            "Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google, 3 full certificates)"
         ]
     .join("\n");
 

@@ -20,7 +20,7 @@ Bachelor of Art and Business, Macquarie University
 
 Google technical support technician certificate
 
-Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google)
+Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google, 3 full certificates)
 
 **Work:** - Tech support/Assistant instructor at Junior Engineers, 2023-2024
 
