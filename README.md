@@ -22,9 +22,9 @@ Google technical support technician certificate
 
 Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google, 3 full certificates)
 
-**Work:** - Tech support/Assistant instructor at Junior Engineers, 2023-2024
+**Work:** - Lead instructor and Tech support/Assistant at Junior Engineers, 2023-2024
 
-- IT manager and IoT Coordinator at Energy Skills Queensland, 2024
+- IT manager and IoT Coordinator/Data engineer at Energy Skills Queensland, 2024
 
 - Independent IT Manager and Software Engineer at SpaceTimeIT, 2021-Current 
 
@@ -43,7 +43,7 @@ Conputer networking, Operating system power user, system admin and infrastructur
 
 - Git, Jira, Agile, AWS, Docker
 
-- Linux (Arch, Ubuntu), system programming
+- Linux (Arch, Debian, Fedora, Kali), system programming
 
 - Code refactoring, debugging, testing
 
