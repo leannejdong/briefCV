@@ -21,7 +21,7 @@ fn main() {
     .join("\n");
 
     let work = vec![
-        "- Lead instructor and Tech support/Assistant at Junior Engineers, 2023-2024\n",
+        "- Lead robotic coding instructor and Tech support/Assistant at Junior Engineers, 2023-2025 June\n",
         "- IT manager and IoT Coordinator/Data engineer at Energy Skills Queensland, 2024\n",
         "- Independent IT Manager and Software Engineer at SpaceTimeIT, 2021-Current \n",
         "- C++ Linux developer at tonicbits, 2022\n",
@@ -32,9 +32,9 @@ fn main() {
 
 
     let skills: Vec<&str> = vec![
-        "Specialties: Trouble shooting (microsoft 365, software deployment techniques), customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin,cyber security, Cross platform custom software development and design\n",
+        "Specialties: Trouble shooting (Microsoft 365, software deployment techniques), customer service, windows/linux servers, VMwares/virtualization, cloud, networking, operating system, system admin,cyber security, Cross platform custom software development and design\n",
         "Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React\n",
-        "Build tools: CMake, Ninja, MSVC, vscode, neovim\n",
+        "Build tools: CMake, Ninja, MSVC, neovim\n",
         "Git, Jira, Agile, AWS, Docker\n",
         "Linux (Arch, Debian, Fedora, Kali), system programming\n",
         "Code refactoring, debugging, testing\n",
