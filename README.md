@@ -2,9 +2,7 @@
 
 **Location:** Brisbane, Australia
 
-**Github:** https://github.com/leannejdong
-
-**Linkedin:** https://www.linkedin.com/in/leanne-j-dong/
+**Github:**  https://github.com/leannejdong
 
 **Email:** leanne@spacetimeit.com
 
@@ -22,7 +20,7 @@ Google technical support technician certificate
 
 Conputer networking, Operating system power user, system admin and infrastructure service management (issued by Google, 3 full certificates)
 
-**Work:** - Lead instructor and Tech support/Assistant at Junior Engineers, 2023-2024
+**Work:** - Lead robotic coding instructor and Tech support/Assistant at Junior Engineers, 2023-2025 June
 
 - IT manager and IoT Coordinator/Data engineer at Energy Skills Queensland, 2024
 
@@ -35,11 +33,11 @@ Conputer networking, Operating system power user, system admin and infrastructur
 - Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 
 
-**Skills:** - Specialties: Trouble shooting (microsoft 365, software deployment techniques), customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin,cyber security, Cross platform custom software development and design
+**Skills:** - Specialties: Trouble shooting (Microsoft 365, software deployment techniques), customer service, windows/linux servers, VMwares/virtualization, cloud, networking, operating system, system admin,cyber security, Cross platform custom software development and design
 
 - Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React
 
-- Build tools: CMake, Ninja, MSVC, vscode, neovim
+- Build tools: CMake, Ninja, MSVC, neovim
 
 - Git, Jira, Agile, AWS, Docker
 

@@ -38,9 +38,9 @@ Over 70 other certificates around programming, networking and cloud
 -   Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
 
 **Skills:** - Specialties: Trouble shooting (Windows, Mac, iOS, Linux, Android), Microsoft 365 (SharePoint, Team) customer service,
-windows/linux servers, virtualization, cloud, network infrastructure, operating
+windows/linux servers, VMwares, virtualization, cloud, network infrastructure, operating
 system, system admin, network security, Cross platform custom software
-development and design
+development
 
 -   Networking: Packet tracer (expert level), Wireshark, Tera Term
 

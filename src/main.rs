@@ -49,8 +49,8 @@ fn main() {
 
     // Format the data as a Markdown string
     let markdown = format!(
-        "# {}\n\n**Location:** {}\n\n**Github:** {}\n\n**Linkedin:** {}\n\n**Email:** {}\n\n**Education:** {}\n\n**Work:** {}\n\n**Skills:** {}",
-        name, location, github, linkedin, email, education, work, skills_str
+        "# {}\n\n**Location:** {}\n\n**Github:**  {}\n\n**Email:** {}\n\n**Education:** {}\n\n**Work:** {}\n\n**Skills:** {}",
+        name, location, github, email, education, work, skills_str
     );
 
     // Write the Markdown string to a file
