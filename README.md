@@ -4,7 +4,7 @@
 
 **Github:**  https://github.com/leannejdong
 
-**Email:** leanne@spacetimeit.com
+**Email:** levynoise@spacetimeit.com
 
 **Education:** Diploma of IT in advanced networking and cloud engineering (2024-Current, part time, almost completed)
 
@@ -41,9 +41,7 @@ Tech support, Conputer networking, Operating system power user, system admin and
 
 - Git, Jira, Agile, AWS, Docker
 
-- Linux (Arch, Debian, Fedora, Openbsd, Kali), system programming
+- Linux (Arch, Debian, Ubuntu, Fedora, BSD), system programming
 
 - Code refactoring, debugging, testing
-
-- Mathematics, Satistics, Data Analytics
 

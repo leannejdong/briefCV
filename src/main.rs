@@ -8,7 +8,7 @@ fn main() {
     let location = "Brisbane, Australia";
     let github = "https://github.com/leannejdong";
     let linkedin = "https://www.linkedin.com/in/leanne-j-dong/";
-    let email = "leanne@spacetimeit.com";
+    let email = "levynoise@spacetimeit.com";
         let education= vec![
             "Diploma of IT in advanced networking and cloud engineering (2024-Current, part time, almost completed)\n",
             "PhD in Mathematics, Sydney University (2018)\n",
@@ -36,10 +36,8 @@ fn main() {
         "Language: C++, JUCE, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React\n",
         "Build tools: CMake, Ninja, MSVC, neovim\n",
         "Git, Jira, Agile, AWS, Docker\n",
-        "Linux (Arch, Debian, Fedora, Openbsd, Kali), system programming\n",
-        "Code refactoring, debugging, testing\n",
-        "Mathematics, Satistics, Data Analytics\n",
-    ];
+        "Linux (Arch, Debian, Ubuntu, Fedora, BSD), system programming\n",
+        "Code refactoring, debugging, testing\n" ];
 
 
     let skills_str = skills
