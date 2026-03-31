@@ -20,7 +20,7 @@ Google IT support professional certificate
 
 Tech support, Conputer networking, Operating system power user, system admin and infrastructure service management, IT security (issued by Google, 5 full certificates, 6 months)
 
-**Work:** - Lead robotic coding instructor and Tech support/Assistant at Junior Engineers, 2023-2025 June
+**Work:** - Lead robotic coding instructor at Junior Engineers, 2023-2025 June
 
 - IT manager and IoT Coordinator/Data engineer at Energy Skills Queensland, 2024
 
@@ -35,9 +35,9 @@ Tech support, Conputer networking, Operating system power user, system admin and
 
 **Skills:** - Specialties: Audio DSP programming, Creative coding, Computer music, Sound design, Trouble shooting (Microsoft 365, software deployment techniques), customer service, windows/linux servers, VMwares/virtualization, cloud, networking, operating system, system admin,cyber security, Cross platform custom software development and design
 
-- Language: C++, JUCE, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React
+- Language: C++, JUCE, Python, Typescript, Rust, C, Java, C#, R, JS/HTML/CSS/React
 
-- Build tools: CMake, Ninja, MSVC, neovim
+- Build tools: CMake, Ninja, MSVC
 
 - Git, Jira, Agile, AWS, Docker
 
