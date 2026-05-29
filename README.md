@@ -14,7 +14,7 @@ Highly analytical IT professional and C++ Developer with a PhD in Mathematics an
 - Infrastructure Strategy: Oversee general IT infrastructure, implementing policies and procedures to ensure secure and scalable ICT services for non-profit operations.
 - Full-Stack Development: Developed custom software solutions including an Online Beauty App for beauticians and Brisbane Job Helper app using TypeScript / React Native.
 - Audio Engineering (JUCE): Specialised in JUCE framework development for VST3/AU plugins, including music information retrieval and Linux compatibility for Scaler2.
-- Systems Administration: Manage a sophisticated home lab environment utilising Synology NAS, Docker, Tailscale, and Cloudflare Tunnels to simulate enterprise networking scenarios.
+- Systems Administration: Manage a independent home lab environment utilising Synology NAS, Docker, Tailscale, and Cloudflare Tunnels to simulate enterprise networking scenarios.
 - Cloud & Networking: Currently deploying cloud-based services and managing virtualised server environments (Windows/Linux) as part of advanced networking certification.
 - Key Achievement: Successfully migrated domain and DNS management to Cloudflare, optimising web presence and security.
 - Key Achievement: Developed and deployed multiple audio-centric C++ applications for real-time signal processing.
@@ -45,7 +45,7 @@ Highly analytical IT professional and C++ Developer with a PhD in Mathematics an
 
 ## Education & Certifications
 
-- Diploma of IT (Advanced Networking & Cloud Engineering) — Expected 2026
+- Diploma of IT (Advanced Networking & Cloud Engineering) — June 2026
 - Ph.D. in Mathematics (Theoretical Probability) — University of Sydney
 - Bachelor of Mathematics (First Class Honours with Medal) — UTS
 - CCNA 200-301 — In Progress

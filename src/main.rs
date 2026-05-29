@@ -20,7 +20,7 @@ of delivering complex software solutions across fintech, robotics, and music tec
 
     // Education
     let education = vec![
-        "Diploma of IT (Advanced Networking & Cloud Engineering) — Expected 2026",
+        "Diploma of IT (Advanced Networking & Cloud Engineering) — June 2026",
         "Ph.D. in Mathematics (Theoretical Probability) — University of Sydney",
         "Bachelor of Mathematics (First Class Honours with Medal) — UTS",
         "CCNA 200-301 — In Progress",
@@ -42,7 +42,7 @@ and procedures to ensure secure and scalable ICT services for non-profit operati
 Beauty App for beauticians and Brisbane Job Helper app using TypeScript / React Native.",
                 "Audio Engineering (JUCE): Specialised in JUCE framework development for \
 VST3/AU plugins, including music information retrieval and Linux compatibility for Scaler2.",
-                "Systems Administration: Manage a sophisticated home lab environment utilising \
+                "Systems Administration: Manage a independent home lab environment utilising \
 Synology NAS, Docker, Tailscale, and Cloudflare Tunnels to simulate enterprise networking scenarios.",
                 "Cloud & Networking: Currently deploying cloud-based services and managing \
 virtualised server environments (Windows/Linux) as part of advanced networking certification.",
