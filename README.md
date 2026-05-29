@@ -1,54 +1,63 @@
-# Dr Leanne J Dong
+# Leanne J Dong
 
-Email: leanne@spacetimeit.com
+📧 [jdleanne@gmail.com](mailto:jdleanne@gmail.com) | 📞 0412908292 | 📍 Brisbane, QLD | 🇦🇺 Australian Citizen | 🔗 [https://github.com/leannejdong](https://github.com/leannejdong)
 
-**Github:** https://github.com/leannejdong
+## Summary
 
-**Linkedin:** https://www.linkedin.com/in/leanne-j-dong/
+Highly analytical IT professional and C++ Developer with a PhD in Mathematics and over 10 years of experience in technical problem-solving, high-performance computing, and systems engineering. Currently in final month completing Advanced Diploma in IT (Networking and Cloud Engineering) to bridge deep academic research with enterprise infrastructure. Expertise in Linux environments, audio software development, and real-time systems, with a proven track record of delivering complex software solutions across fintech, robotics, and music technology sectors.
 
-**Education:** Diploma of IT in advanced networking and cloud engineering (2024-Current, part time)
+## Work Experience
 
-PhD in Mathematics, Sydney University (2018)
+### IT Lead & Freelance C++ Developer | 2024 – Present
+**Independent / Non-Profit Sector**
 
-Bachelor of Science in Mathematics (Hon 1, Medal), UTS
+- Infrastructure Strategy: Oversee general IT infrastructure, implementing policies and procedures to ensure secure and scalable ICT services for non-profit operations.
+- Full-Stack Development: Developed custom software solutions including an Online Beauty App for beauticians and Brisbane Job Helper app using TypeScript / React Native.
+- Audio Engineering (JUCE): Specialised in JUCE framework development for VST3/AU plugins, including music information retrieval and Linux compatibility for Scaler2.
+- Systems Administration: Manage a independent home lab environment utilising Synology NAS, Docker, Tailscale, and Cloudflare Tunnels to simulate enterprise networking scenarios.
+- Cloud & Networking: Currently deploying cloud-based services and managing virtualised server environments (Windows/Linux) as part of advanced networking certification.
+- Key Achievement: Successfully migrated domain and DNS management to Cloudflare, optimising web presence and security.
+- Key Achievement: Developed and deployed multiple audio-centric C++ applications for real-time signal processing.
 
-Master of Science in Finance, UNSW
+### Postdoctoral Research Fellow / C++ Developer | 2020 – 2023
+**Concordia University / Various Industries (Robotics, Fintech, Music Tech)**
 
-Bachelor of Art and Business, Macquarie University
+- Software Engineering: Engineered backend sparse decision tree C++ solutions for logistics and fintech, focusing on low-latency, high-performance algorithms and cross-platform deployment.
+- Scientific Computing: Developed a nonlinear equation system solver (SimSolve-Liu) using Modern C++ (17/20) and Eigen3, applying advanced mathematical modelling to circuit network automation.
+- Key Achievement: Developed a minimal sparse tensor library and various neural network implementations in C++.
+- Key Achievement: Architected a circuit network simulation tool using undirected graph approaches.
 
-Google technical support certificate
+### Lead Robotic Coding Instructor | 2023 – 2025
+**Junior Engineers**
 
-Over 70 other certificates around programming, networking and cloud
+- Delivered hands-on robotics and coding curriculum to K–12 students.
 
-**Work:** - Tech support/Assistant instructor at Junior Engineers, 2023-2024
+### IT Manager & IoT Coordinator / Data Engineer | 2024
+**Energy Skills Queensland**
 
-- IT manager and IoT Coordinator at Energy Skills Queensland, 2024
+- Managed IT operations and coordinated IoT infrastructure for Queensland's energy skills training organisation.
 
-- Independent IT Manager and Software Engineer at SpaceTimeIT, 2021-Current 
-        (Multiple NDA clients focus on Audio, C++,  Real Time Low latency application, web dev)
+### Sessional Lecturer & Tutor | 2011 – 2019
+**University of Sydney / UTS / ACU**
 
-- C++ Linux developer at tonicbits, 2022
+- Advanced Instruction: Delivered curriculum in Applied Mathematics, Real Analysis, and Machine Learning to high-performing STEM students.
+- Research Associate: Conducted data-driven research in Computer Social Science at FEIT (UTS), leveraging statistical modelling and large-scale data analysis.
 
-- Postdoctoral researcher in Computer Science and Engineering at UTS and Concordia Uni, 2019-2022
+## Education & Certifications
 
-- Casual Lecturer and Tutor (UTS, USYD, ACU), 2010-2019
+- Diploma of IT (Advanced Networking & Cloud Engineering) — June 2026
+- Ph.D. in Mathematics (Theoretical Probability) — University of Sydney
+- Bachelor of Mathematics (First Class Honours with Medal) — UTS
+- CCNA 200-301 — In Progress
+- Master of Finance in Investment Banking
+- Bachelor of Commerce (double degree: Economics and Accounting)
+- Google IT Support Professional Certificate (5 certificates issued by Google)
 
+## Technical Skills
 
-**Skills:** - Specialties: Trouble shooting (microsoft 365, software deployment techniques), customer service, windows/linux servers, virtualization, cloud, networking, operating system, system admin, security, Cross platform custom software development and design
-
-- Language: C++, Python, Rust, C, Java, C#, R, JS/HTML/CSS/React
-
-- Build tools: CMake, Ninja, MSVC, vscode, neovim
-
-- Frameworks: JUCE, Boost, Qt
-
-- Git, Jira, Agile, AWS, Docker
-
-- Linux (Arch, Ubuntu), system programming
-
-- Code refactoring, debugging, testing
-
-- Mathematics, Satistics
-
-- Data Analytics
+- **Languages:** C++ (98 through 20), Rust, Python, TypeScript (React Native), R, MATLAB
+- **Systems & Tools:** Linux (all variants), Windows Server, Docker, Git, CMake, JUCE, Ninja, MSVC
+- **CCNA level Networking:** Server Virtualisation, Cloudflare, Private VPN, Tailscale
+- **Cloud & DevOps:** AWS, GCP, Docker, Agile / Jira, CI/CD
+- **Specialties:** Audio plugin programming, real-time signal processing, cross-platform software development, networking, Cloud networking, operating systems, system administration, cyber security
 
