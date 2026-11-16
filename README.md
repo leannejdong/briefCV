@@ -4,14 +4,15 @@
 
 ## Summary
 
-Highly analytical IT professional and C++ Developer with a PhD in Mathematics and over 10 years of experience in technical problem-solving, high-performance computing, and systems engineering. Currently in final month completing Advanced Diploma in IT (Networking and Cloud Engineering) to bridge deep academic research with enterprise infrastructure. Expertise in Linux environments, audio software development, and real-time systems, with a proven track record of delivering complex software solutions across fintech, robotics, and music technology sectors.
+Highly analytical IT professional, Computer technician and C++ Developer with a PhD in Mathematics and over 10 years of experience in technical problem-solving, high-performance computing, and systems engineering. Completed a Advanced Diploma in IT (Networking and Cloud Engineering) to bridge deep academic research with enterprise infrastructure. Expertise in Linux environments, audio software development, and real-time systems, with a proven track record of delivering complex software solutions across fintech, robotics, and music technology sectors.
 
 ## Work Experience
 
-### IT Lead & Freelance C++ Developer | 2024 – Present
+### IT Lead technician & Freelance C++ Developer | 2024 – Present
 **Independent / Non-Profit Sector**
 
 - Infrastructure Strategy: Oversee general IT infrastructure, implementing policies and procedures to ensure secure and scalable ICT services for non-profit operations.
+- Computer repair and hardware troubleshooting
 - Full-Stack Development: Developed custom software solutions including an Online Beauty App for beauticians and Brisbane Job Helper app using TypeScript / React Native.
 - Audio Engineering (JUCE): Specialised in JUCE framework development for VST3/AU plugins, including music information retrieval and Linux compatibility for Scaler2.
 - Systems Administration: Manage a independent home lab environment utilising Synology NAS, Docker, Tailscale, and Cloudflare Tunnels to simulate enterprise networking scenarios.
